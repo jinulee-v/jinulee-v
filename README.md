@@ -26,16 +26,6 @@ To the grand goal of explainable and intelligent systems, I am currently interes
 
 ---
 
-## Career
-
-🏫 09.2022 - 07.2023  **Undergraduate researcher, Language & Data Intelligence Lab** (supervisor: Dr. Seungwon Hwang)
-
-🚢 03.2021 - 09.2022  **Researcher, RoK Navy Future Innovation Research Group**
-
-🎮 07.2020 - 11.2020  **Research Intern, NCSOFT Language AI Lab**
-
----
-
 ## Education
 
 💻 03.2018 - 08.2024  **Dept. of Computer Science & Engineering, Seoul National University** (Major)
