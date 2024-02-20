@@ -1,26 +1,32 @@
-# Jinu Lee Profiles
-
-**NLP & Computational Linguistics**
-
-Young and passionate researcher sailing through computer science and linguistics
+# Jinu Lee
 
 ---
 
-## Summary
+## Research Interests
 
-I am deeply interested in modeling and computing human language. Inspired by great ideas from computer science and linguistics, I dream about interpretable and explanable language AI. 
+To the grand goal of explainable and intelligent systems, I am currently interested in integrating deep language AI with symbolic systems, knowledge representation, and reinforcement learning.
 
-### 💻 Natural Language Processing
+**Current research interests:**
 
-Interested in improving standard **Deep Learning based NLP**, along with improving NLP systems to be **interpretable and explainable**.
-
-### 📝 Computational Linguistics
-
-Interested in accompanying classic linguistic ideas from **syntax and semantics** into machine learning scheme.
+- Explainable / Interpretable NLP training and inference
+- NLP with symbolic systems (Logic, Compiler, Knowledge base, …)
+- Language models as Reinforcement Learning agents
 
 ---
 
-# Career
+## Career
+
+👨‍⚖️ 07.2023 - 05.2024  **Research Engineer, LBox** (Legal Tech Startup)
+
+🏫 09.2022 - 07.2023  **Research Intern, SNU Language & Data Intelligence Lab** (Adviser: Prof. Seungwon Hwang)
+
+🚢 03.2021 - 09.2022  **Researcher Seaman, RoK Navy Future Innovation Research Group**
+
+🎮 07.2020 - 11.2020  **Research Intern, NCSOFT Language AI Lab**
+
+---
+
+## Career
 
 🏫 09.2022 - 07.2023  **Undergraduate researcher, Language & Data Intelligence Lab** (supervisor: Dr. Seungwon Hwang)
 
@@ -30,17 +36,17 @@ Interested in accompanying classic linguistic ideas from **syntax and semantics*
 
 ---
 
-# Education
+## Education
 
-💻 03.2018 - Now  **Dept. of Computer Science & Engineering, Seoul National University** (Major)
+💻 03.2018 - 08.2024  **Dept. of Computer Science & Engineering, Seoul National University** (Major)
 
-📝 09.2019 - Now  **Dept. of Linguistics, Seoul National University** (Minor)
+📝 09.2019 - 08.2024  **Dept. of Linguistics, Seoul National University** (Minor)
 
 ---
 
 ## More Information in...
 
-🌱 [Jinu Lee Profiles(Notion)](bit.ly/jinulee-v-profiles)
+🌱 [Jinu Lee Profiles](bit.ly/jinulee-v-profiles)
 
 ---
 
